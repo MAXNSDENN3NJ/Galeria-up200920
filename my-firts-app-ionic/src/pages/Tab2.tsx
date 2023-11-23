@@ -11,13 +11,13 @@ const Tab2: React.FC = () => {
     <IonPage>
       <IonHeader>
         <IonToolbar>
-          <IonTitle>Photo Gallery</IonTitle>
+          <IonTitle>Galeria de fotos</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent>
       <IonHeader collapse="condense">
           <IonToolbar>
-            <IonTitle size="large">Photo Gallery</IonTitle>
+            <IonTitle size="large">Galería de fotos</IonTitle>
           </IonToolbar>
         </IonHeader>
         <IonGrid>
